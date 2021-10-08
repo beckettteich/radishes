@@ -1,0 +1,191 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RadishFoodEaten",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radish_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Radish",
+      "type": "food",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radish"
+    },
+    {
+      "name": "GoldenRadishFoodEaten",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_radish_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GoldenRadish",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_radish"
+    },
+    {
+      "name": "GodRadishFoodEaten",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_radish_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GodRadish",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_radish"
+    },
+    {
+      "name": "GoldenRadishCraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "golden_radish_craft"
+    },
+    {
+      "name": "RadishInfusedGold",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radish_infused_gold_block"
+    },
+    {
+      "name": "RadishInfusedGoldBlockCraft",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radish_infused_gold_block_craft"
+    },
+    {
+      "name": "GodRadishCraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "god_radish_craft"
+    },
+    {
+      "name": "Radishstage1",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radishstage_1"
+    },
+    {
+      "name": "Radishstage2",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radishstage_2"
+    },
+    {
+      "name": "Radishstage3",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radishstage_3"
+    },
+    {
+      "name": "Radishstage4",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "radishstage_4"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.radishes.golden_radish": "Golden Radish",
+      "item.radishes.radish": "Radish",
+      "block.radishes.radishstage_3": "Radishstage 3",
+      "item.radishes.radish_infused_gold_block": "Radish Infused Gold Block",
+      "block.radishes.radishstage_2": "Radishstage 2",
+      "block.radishes.radishstage_1": "Radishstage 1",
+      "item.radishes.god_radish": "God Radish",
+      "block.radishes.radishstage_4": "Radishstage 4"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "radishes",
+    "modName": "Radishes",
+    "version": "1.0.0",
+    "author": "beckettteich, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.radishes",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

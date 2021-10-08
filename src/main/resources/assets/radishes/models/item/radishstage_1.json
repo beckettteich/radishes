@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "radishes:blocks/beetroots_stage0"
+  }
+}

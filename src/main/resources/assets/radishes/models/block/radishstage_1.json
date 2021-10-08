@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "radishes:blocks/beetroots_stage0",
+    "particle": "radishes:blocks/beetroots_stage0"
+  }
+}
